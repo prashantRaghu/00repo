@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
-  version: v1
-  title: 00repo33
+  version: v10
+  title: 00repo338
 servers:
   - url: 'http://localhost:3002'
 paths:
