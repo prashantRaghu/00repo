@@ -1,0 +1,20 @@
+id = ffa76126-7834-48b2-b81e-36b23ac6a47c
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"889210-97aa773e-3beb-4174-8a8e-f88edf92141e","path":"35a07d85-4c67-4aff-b7e2-88e03219226a_documentation.json","metaData":{}}
+files[] = {"id":"889210-c3550f99-6c27-49d8-8cc2-2c7063f20a2e","path":"7c844c20-a36d-4ae5-abec-d8a99810eb18_documentation.json","metaData":{}}
+files[] = {"id":"889210-942bd9e6-6d29-4add-af2f-3b8354f17e0a","path":"88901e4b-4529-4988-b66c-7a5e7f8b355a_testsuite.json","metaData":{}}
+files[] = {"id":"889210-aefd10e8-20c2-40e1-bf06-3d3c44ffa836","path":"f9daf546-d507-470c-af34-4e38fe31db2f_documentation.json","metaData":{}}
+files[] = {"id":"889210-3992370c-e2eb-452a-ad47-caf9bb7e5236","path":"Kubernetes_aea50b58-5e42-4107-b804-045d27e13740.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"schema.json","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
